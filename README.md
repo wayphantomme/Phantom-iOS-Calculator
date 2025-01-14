@@ -2,7 +2,7 @@
 
 A sleek, iOS-inspired calculator web application with calculation history functionality. This calculator mimics the design and feel of the iOS calculator while adding extra features like calculation history.
 
-![Phantom iOS Calculator Preview](/api/placeholder/400/320)
+![Phantom iOS Calculator Preview](img/phantom-ios-calculator.png)
 
 ## Features
 
