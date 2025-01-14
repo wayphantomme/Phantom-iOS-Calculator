@@ -16,7 +16,7 @@ A sleek, iOS-inspired calculator web application with calculation history functi
 
 ## Demo
 
-Live demo: [[Add your demo link here](https://wayphantomme.github.io/Phantom-iOS-Calculator/)]
+Live demo: [[Phantom iOS Calculator](https://wayphantomme.github.io/Phantom-iOS-Calculator/)]
 
 ## Technologies Used
 
