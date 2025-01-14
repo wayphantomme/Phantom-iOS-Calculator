@@ -169,6 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Your Name - [@wayphantomme](https://twitter.com/wayphantomme)
+Phantom Megaditha - [@wayphantomme](https://twitter.com/wayphantomme)
 
 Project Link: [https://github.com/yourusername/phantom-ios-calculator](https://github.com/wayphantomme/phantom-ios-calculator)
